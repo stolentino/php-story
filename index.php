@@ -7,4 +7,6 @@ echo '<p><a class="btn btn-default btn-lg" href="play.php" role="button">Play</a
 
 echo '<h2>Reread Your Saved Stories</h2>';
 
+
+
 include 'inc/footer.php';
